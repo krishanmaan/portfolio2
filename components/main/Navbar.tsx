@@ -26,7 +26,7 @@ const Navbar = () => {
           />
 
           <span className="font-bold ml-[10px] mr-[10px] hidden md:block text-gray-300">
-            Maan Dev
+            Krishan Maan
           </span>
         </a>
 
